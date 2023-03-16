@@ -6,11 +6,13 @@ namespace ProgrammingConstruct
     {
         public static void Main(string[] args)
         {
-             //IfElseEqualityofInteger.CheckEquality();
-             //IfElseEvenOdd.CheckEvenOdd();
-             //IfElseVotingAge.CheckEligibility();
-           ElseifLargestNumber.FindLargestNum();
-           ElseifAdmissionEligibility.CheckEligiility();
+            //IfElseEqualityofInteger.CheckEquality();
+            //IfElseEvenOdd.CheckEvenOdd();
+            //IfElseVotingAge.CheckEligibility();
+            //  ElseifLargestNumber.FindLargestNum();
+            // ElseifAdmissionEligibility.CheckEligiility();
+           // SwitchWeekDays.CheckDays();
+            SwitchArithmeticOperation.ArithmaticOperation();
         }
     }
 }
