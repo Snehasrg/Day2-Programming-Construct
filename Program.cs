@@ -6,9 +6,11 @@ namespace ProgrammingConstruct
     {
         public static void Main(string[] args)
         {
-             IfElseEqualityofInteger.CheckEquality();
-             IfElseEvenOdd.CheckEvenOdd();
-             IfElseVotingAge.CheckEligibility();
+             //IfElseEqualityofInteger.CheckEquality();
+             //IfElseEvenOdd.CheckEvenOdd();
+             //IfElseVotingAge.CheckEligibility();
+           ElseifLargestNumber.FindLargestNum();
+           ElseifAdmissionEligibility.CheckEligiility();
         }
     }
 }
