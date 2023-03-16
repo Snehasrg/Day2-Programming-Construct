@@ -6,7 +6,9 @@ namespace ProgrammingConstruct
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to Programming Construct");
+             IfElseEqualityofInteger.CheckEquality();
+             IfElseEvenOdd.CheckEvenOdd();
+             IfElseVotingAge.CheckEligibility();
         }
     }
 }
