@@ -11,8 +11,11 @@ namespace ProgrammingConstruct
             //IfElseVotingAge.CheckEligibility();
             //  ElseifLargestNumber.FindLargestNum();
             // ElseifAdmissionEligibility.CheckEligiility();
-           // SwitchWeekDays.CheckDays();
-            SwitchArithmeticOperation.ArithmaticOperation();
+            // SwitchWeekDays.CheckDays();
+            //SwitchArithmeticOperation.ArithmaticOperation();
+            ForSumofSquareofNum.summation();
+            ForFactorialofNumber.factorial();
+          
         }
     }
 }
