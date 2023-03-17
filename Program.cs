@@ -13,9 +13,11 @@ namespace ProgrammingConstruct
             // ElseifAdmissionEligibility.CheckEligiility();
             // SwitchWeekDays.CheckDays();
             //SwitchArithmeticOperation.ArithmaticOperation();
-            ForSumofSquareofNum.summation();
-            ForFactorialofNumber.factorial();
-          
+           // ForSumofSquareofNum.summation();
+           // ForFactorialofNumber.factorial();
+           // ForPowerof2.Checkpower();
+             WhileSumofNaturalNum.DisplaySum();
+             WhileReverseWord.CheckReverse();
         }
     }
 }
